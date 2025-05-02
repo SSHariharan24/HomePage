@@ -137,7 +137,7 @@ const GigHeader = () => {
         </div>
 
         {/* Bottom Navigation Bar */}
-        <div className="w-full bg-gray-800 border-t border-gray-700 px-6">
+        <div className="w-full bg-gray-800 border-gray-700 px-6">
           <div className="flex flex-col md:flex-row items-center justify-between w-full max-w-screen-2xl mx-auto py-2">
             {/* Main Navigation */}
             <nav className="flex items-center space-x-8">
